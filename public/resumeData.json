@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Naresh Nagpal",
+    "occupation": "Backend Developer and continuing journey towards full stack with React JS",
+    "description": "Experienced backend and cloud developer in Microsoft technologies - Azure, .Net",
+    "image": "Naresh.jpeg",
+    "bio": "My name is Naresh Nagpal. I am a backend and integration developer working on Microsoft technologies like Azure, c#, .Net. Learning react to upskill myself as full stack developer. ",
+    "contactmessage": "Get in touch with me to work if you are working on any react or MERN stack project. I am happy to contribute",
+    "email": "naresh.nagpal06@gmail.com",
+    "phone": "+91 12 345 6789",
+    "address": {
+      "street": "221 Baker Street",
+      "city": "Hyderabad",
+      "state": "India",
+      "zip": "ABC 123"
+    },
+    "website": "https://nareshnagpal.azurewebsites.net",
+    "resumedownload": "https://nareshsa.blob.core.windows.net/test/Naresh_CV.pdf?sp=rl&st=2020-09-08T12:20:32Z&se=2020-09-10T12:20:00Z&sv=2019-12-12&sr=b&sig=UoPOJUzqbdl5fWP5L1Hx8guy2n9F3NTGKSTHEfzaHcY%3D",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/naresh.nagpal.98",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/naresh-nagpal-65605a49/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nagpal9320/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nareshnagpal06",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I have 12 years of experience as a Integration and backend developer working on Microsoft technologies - Azure- IaaS, Paas, .Net, SQL server",
+    "education": [
+      {
+        "school": "Osmania University",
+        "degree": "Post Graduate Deploma in Computer Science",
+        "graduated": "June 2020",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Kurukshetra University",
+        "degree": "Bachelor of technology in Electronics and Communications",
+        "graduated": "June 2006",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Accenture Services Pvt Ltd",
+        "title": "Software Engineer",
+        "years": "Dec 2008 - Present",
+        "description": "Working on Financial banking project"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Microsoft Azure",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "20%"
+      },
+      {
+        "name": "C#",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "50%"
+      },
+      {
+        "name": "CosmosDb",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Devops",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "ToDoApp",
+        "category": "TodoApp",
+        "image": "data:image/png;base64,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",
+        "url": "https://unruffled-tereshkova-6153ed.netlify.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Naresh stand out as a game changer at times. His skill set, diligence to continue to completion, active and responsive approach always leaves me stunned. I highly appreciate his observation skill and co-ordination effort. I always lean forward and look up to him to learn and evolve and enjoy working with him.",
+        "user": "Sachin Singh"
+      },
+      {
+        "text": "Naresh is extremely talented and brings lot of technical expertise and experience to the team. You can approach him for any technical or design related help and he would be readily available to help. I admire his approach in handling tough situations with lot of ambiguity, which is a good sign of a matured professional",
+        "user": "Raja.. impersonator"
+      }
+    ]
+  }
+}
